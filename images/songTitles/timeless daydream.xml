@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="timeless daydream.png" width="672" height="414">
+	<SubTexture name="loop0000" x="0" y="87" width="671" height="82" frameX="-11" frameY="-13" frameWidth="697" frameHeight="106"/>
+	<SubTexture name="loop0001" x="0" y="0" width="672" height="84" frameX="-11" frameY="-11" frameWidth="697" frameHeight="106"/>
+	<SubTexture name="loop0002" x="0" y="337" width="672" height="77" frameX="-11" frameY="-18" frameWidth="697" frameHeight="106"/>
+	<SubTexture name="loop0003" x="0" y="255" width="671" height="79" frameX="-11" frameY="-16" frameWidth="697" frameHeight="106"/>
+	<SubTexture name="loop0004" x="0" y="172" width="671" height="80" frameX="-11" frameY="-15" frameWidth="697" frameHeight="106"/>
+</TextureAtlas>
